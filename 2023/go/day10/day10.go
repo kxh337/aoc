@@ -21,8 +21,6 @@ Determine the # of steps in the loop from the starting position to the point far
 import (
 	"aoc/common"
 	"fmt"
-	//"regexp"
-	//"strconv"
 )
 
 type PipeDir int
